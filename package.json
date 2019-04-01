@@ -1,0 +1,17 @@
+{
+  "name": "BowlingGameKataJavaScript",
+  "version": "0.0.0",
+  "description": "Uncle Bob's classic implemented in JavaScript",
+  "main": "game.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "mdfortino",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "karma-chai": "~0.1.0",
+    "karma-mocha": "~0.1.1",
+    "mocha": "^1.17.1"
+  }
+}
