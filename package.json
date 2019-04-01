@@ -13,5 +13,8 @@
     "karma-chai": "~0.1.0",
     "karma-mocha": "~0.1.1",
     "mocha": "^1.17.1"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
   }
 }
