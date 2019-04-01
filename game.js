@@ -1,4 +1,6 @@
-//define bowling game with rolls array and currentRoll properties
+//define bowling game that has two methods: 
+//* roll(pins), called each time the player rolls a ball. The argument is the number of pins knocked down.
+//* score(), called only after the very end of the game. Returns total score of the game.
 var BowlingGame = ()=> {
 	this.rolls = [];
 	this.currentRoll = 0;
